@@ -12,4 +12,6 @@ These tools are available across platforms. You do not need specific computers t
 
 ## What is ggplot2?
 
-ggplot2 is a data visualization library for the statistical programming language R.
+ggplot2 is a data visualization library for the statistical programming language R. It is part of a larger group of libraries called the tidyverse.
+
+ggplot2 lets you visualize data in R, making it a good choice for people who want to visualize data in the same program they analyze it in. It saves you time and connects directly to your data.
