@@ -4,9 +4,9 @@
 
 You will need to install software in order to participate in this workshop. The software is:
 
-- R (a statistical programming language)
-- RStudio
-- tidyverse (imported via RStudio - I'll walk you through it!)
+- [R](https://www.r-project.org/) (a statistical programming language)
+- [RStudio](https://www.rstudio.com/) (a development environment for R)
+- [tidyverse](https://www.tidyverse.org/) (we'll import this through RStudio)
 
 These tools are available across platforms. You do not need specific computers to use it.
 
