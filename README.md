@@ -20,6 +20,10 @@ ggplot2 lets you visualize data in R, making it a good choice for people who wan
 
 To begin, we need to import ggplot2. Open RStudio.
 
-If you are installing ggplot2 for the first time, type ``install.packages('tidyverse')``. This will install ggplot2, as well as every library in the tidyverse.
+If you are installing ggplot2 for the first time, type ``install.packages('tidyverse')``. This will install ggplot2, as well as every library in the tidyverse. (If you don't want to install the entire tidyverse, you can also enter ``install.packages(ggplot2)``.)
 
 If you have already installed ggplot2, you will need to load it so that your session of R recognizes that you will be using it. Type the command ``library(ggplot2)``.
+
+We will also need to load data.
+
+``dataname <- read.table(file = "dataname.csv", header = TRUE, sep = "\c")``
