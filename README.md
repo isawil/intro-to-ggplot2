@@ -1,5 +1,12 @@
 # Intro to ggplot2
 
+Welcome! This workshop will introduce you to ggplot2, a library for data visualization in R.
+
+Some of what you will learn includes:
+- geom functions
+- aes functions
+- categorical vs. continuous variables and why they matter
+
 ## Setup
 
 You will need to install software in order to participate in this workshop. The software is:
