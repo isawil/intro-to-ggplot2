@@ -31,3 +31,7 @@ If you have already installed ggplot2, you will need to load it so that your ses
 We will also need to load data. Use the data included in the workshop files.
 
 ``dataname <- read.table(file = "dataname.csv", header = TRUE, sep = "\c")``
+
+## License
+
+You are free to use, re-use, or re-mix this material for academic, educational, or non-profit purposes. If you have questions, please contact me.
