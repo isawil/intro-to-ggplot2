@@ -10,6 +10,10 @@ You will need to install software in order to participate in this workshop. The 
 
 These tools are available across platforms. You do not need specific computers to use it.
 
+Please also download the workshop dataset:
+
+- Link here
+
 ## What is ggplot2?
 
 ggplot2 is a data visualization library for the statistical programming language R. It is part of a larger group of libraries called the tidyverse.
@@ -24,6 +28,6 @@ If you are installing ggplot2 for the first time, type ``install.packages('tidyv
 
 If you have already installed ggplot2, you will need to load it so that your session of R recognizes that you will be using it. Type the command ``library(ggplot2)``.
 
-We will also need to load data.
+We will also need to load data. Use the data included in the workshop files.
 
 ``dataname <- read.table(file = "dataname.csv", header = TRUE, sep = "\c")``
