@@ -35,3 +35,7 @@ We will also need to load data. Use the data included in the workshop files.
 ## License
 
 You are free to use, re-use, or re-mix this material for academic, educational, or non-profit purposes. If you have questions, please contact me.
+
+## Contact
+
+You can contact me via email at [shiloh.williams@brocku.ca](mailto:shiloh.williams@brocku.ca) or via Twitter at [@shilowil](https://www.twitter.com/shilowil).
