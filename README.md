@@ -37,17 +37,39 @@ To begin, we need to import ggplot2. Open RStudio.
 
 If you are installing ggplot2 for the first time, type ``install.packages('tidyverse')``. This will install ggplot2, as well as every library in the tidyverse. (If you don't want to install the entire tidyverse, you can also enter ``install.packages(ggplot2)``.)
 
-If you have already installed ggplot2, you will need to load it so that your session of R recognizes that you will be using it. Type the command ``library(ggplot2)``.
+Once you have installed ggplot2, load it using the command ``library(ggplot2)``. (You'll need to do this every time you start a new session in R!)
 
-We will also need to load data. Use the data included in the workshop files.
+We will also need to do the same for our data. We are using a dataset that comes with ggplot2, called ``mpg``.
 
-``dataname <- read.table(file = "dataname.csv", header = TRUE, sep = "\c")``
+## Exploring ggplot2
+
+Now that our data is loaded, what can we do with ggplot2?
+
+Luckily, there's a command just for that. Type ``?ggplot2``.
+
+You can use this command for any library in R (just substitute "ggplot2" for the name of your library). Using this command, we can see that ggplot2 comes with documentation.
+
+## Anatomy of a ggplot2 command
+
+ggplot2 is grounded in what its developers call a grammar of graphics. We don't have time today to delve into what this means, but we can use the phrase as a way to understand how its commands are structured.
+
+Let's say that we want to see how many photographers featured at the Carnegie Museum of Art are from Canada. We can do this with the command ``ggplot2(aes = )``
+
+## Continuous and categorical variables
+
+
 
 ## Resources for further learning
 
+<<<<<<< Updated upstream
 ggplot2 Cheat Sheet  
 *R for Data Science*  
 R-Ladies  
+=======
+[ggplot2 Cheat Sheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-visualization.pdf)  
+*R for Data Science*  
+R-Ladies - group for women and gender minorities using R  
+>>>>>>> Stashed changes
 
 ## License
 
